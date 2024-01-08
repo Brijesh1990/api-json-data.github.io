@@ -1,0 +1,19 @@
+{
+    "employees":[
+      {"firstName":"John", "lastName":"Doe"},
+      {"firstName":"Anna", "lastName":"Smith"},
+      {"firstName":"Peter", "lastName":"Jones"}
+    ],
+
+    "blogs":[
+        {"id":1, "title":"news blogs"}
+      
+      ],
+
+      "contacts":[
+        {"id":1,"firstName":"John", "lastName":"Doe"}
+       
+      ]
+  
+
+    }
